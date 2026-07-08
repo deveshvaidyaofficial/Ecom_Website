@@ -1,13 +1,13 @@
-import shoe1 from "../assets/products/shoe1.png";
-import shoe2 from "../assets/products/shoe2.png";
-import shoe3 from "../assets/products/shoe3.png";
-import shoe4 from "../assets/products/shoe4.png";
-import shoe5 from "../assets/products/shoe5.png";
-import shoe6 from "../assets/products/shoe6.png";
-import shoe7 from "../assets/products/shoe7.png";
-import jersey from "../assets/products/jersey.png";
+import shoe1 from "../assets/products/shoe1.jfif";
+import shoe2 from "../assets/products/shoe2.jfif";
+import shoe3 from "../assets/products/shoe3.jfif";
+import shoe4 from "../assets/products/shoe4.jfif";
+import shoe5 from "../assets/products/shoe5.jfif";
+import shoe6 from "../assets/products/shoe6.jfif";
+import shoe7 from "../assets/products/shoe7.jfif";
+import jersey from "../assets/products/jersey.jfif";
 
-export default [
+const products = [
 
 {
 id:1,
@@ -82,3 +82,5 @@ image:shoe7
 }
 
 ];
+
+export default products;
