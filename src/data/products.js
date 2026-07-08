@@ -79,8 +79,78 @@ price:"₹4,619.50",
 category:"Men Performance",
 colors:"7 colours",
 image:shoe7
-}
+},
+{
+id:9,
+title:"Galaxy 7 Running Shoes",
+price:"₹4,409.50",
+category:"Men Performance",
+colors:"7 colours",
+image:shoe1
+},
 
+{
+id:10,
+title:"SAMBA OG Shoes",
+price:"₹7,699.50",
+category:"Women Originals",
+colors:"13 colours",
+image:shoe2
+},
+
+{
+id:11,
+title:"INDIA T20 INTERNATIONAL CRICKET FAN JERSEY",
+price:"₹699.50",
+category:"Men Performance",
+colors:"",
+image:jersey
+},
+
+{
+id:12,
+title:"Runfalcon Shoes",
+price:"₹4,619.50",
+category:"Men Performance",
+colors:"7 colours",
+image:shoe3
+},
+
+{
+id:13,
+title:"Samba OG Shoes",
+price:"₹7,099.50",
+category:"Women Originals",
+colors:"13 colours",
+image:shoe4
+},
+
+{
+id:14,
+title:"Baseline Shoes",
+price:"₹2,579.50",
+category:"Sportswear",
+colors:"4 colours",
+image:shoe5
+},
+
+{
+id:15,
+title:"POMAZOR Shoes",
+price:"₹2,159.50",
+category:"Men Sportswear",
+colors:"3 colours",
+image:shoe6
+},
+
+{
+id:16,
+title:"Runfalcon 5 Running Shoes",
+price:"₹4,619.50",
+category:"Men Performance",
+colors:"7 colours",
+image:shoe7
+}
 ];
 
 export default products;
