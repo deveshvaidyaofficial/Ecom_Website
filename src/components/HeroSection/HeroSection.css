@@ -1,18 +1,19 @@
-.hero-section {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  height: 520px;
-}
+.hero-section{
+display:grid;
+grid-template-columns:33% 34% 33%;
+height:560px;
 
+}
 .hero-card {
   position: relative;
   overflow: hidden;
 }
 
-.hero-card img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+.hero-card img{
+width:100%;
+height:100%;
+object-fit:cover;
+
 }
 
 .overlay {
@@ -22,16 +23,14 @@
   z-index: 2;
 }
 
-.overlay h2 {
-  display: inline;
-  background: white;
-  padding: 6px 10px;
-  font-size: 20px;
-  font-weight: 900;
-  letter-spacing: 3px;
-  line-height: 1.6;
-}
+.overlay h2{
+display:inline-block;
+background:white;
+padding:6px 12px;
+font-size:22px;
+line-height:1.5;
 
+}
 .overlay p {
   display: inline;
   background: white;
@@ -46,13 +45,13 @@
   margin-top: 25px;
 }
 
-.hero-buttons button {
-  background: white;
-  border: 1px solid black;
-  padding: 14px 18px;
-  font-weight: 700;
-  cursor: pointer;
-  transition: 0.3s;
+.hero-buttons button{
+height:46px;
+padding:0 18px;
+background:white;
+border:1px solid black;
+font-weight:700;
+
 }
 
 .hero-buttons button:hover {
